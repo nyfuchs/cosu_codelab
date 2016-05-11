@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
     private static final String FILE_TAG = "File Creation";
 
     public static final String EXTRA_FILEPATH =
-            "com.nyfuchs.cosucodelab.EXTRA_FILEPATH";
+            "com.google.codelabs.EXTRA_FILEPATH";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
